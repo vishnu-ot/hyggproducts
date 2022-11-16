@@ -1,0 +1,55 @@
+{
+    "products": 
+    [
+      {
+        "id": "628779447ee672e63c420666",
+        "title": "Sun cream",
+        "price": 60,
+        "image": "prod001.png"
+      },
+      {
+        "id": "62877944f20b0171d494fa0f",
+        "title": "Night eye cream",
+        "price": 30,
+        "image": "prod002.png"
+      },
+      {
+        "id": "628779443587a39942df3cec",
+        "title": "Acene Skin Gel",
+        "price": 40,
+        "image": "prod003.png"
+      },
+      {
+        "id": "62877944bcbadf8731a2342d",
+        "title": "Dry Skin Rescue",
+        "price": 70,
+        "image": "prod004.png"
+      },
+      {
+        "id": "62877944d757ba8390501430",
+        "title": "Body Protection",
+        "price": 45,
+        "image": "prod005.png"
+      },
+      {
+        "id": "62877944ca257f2af1dca713",
+        "title": "All in one Gel",
+        "price": 25,
+        "image": "prod006.png"
+      },
+      {
+        "id": "628779443b31d5ddee2d6db2",
+        "title": "Deep treatment",
+        "price": 35,
+        "image": "prod007.png"
+      },
+      {
+        "id": "6287794471b16d6e91544bba",
+        "title": "Morning Shine",
+        "price": 40,
+        "image": "prod008.png"
+      }
+      
+    ]
+    
+  }
